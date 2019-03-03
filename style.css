@@ -1,3 +1,17 @@
+body {
+    background-image: url("./images/concrete_seamless.png");
+    background-color: #cccccc;
+   }
 .main-box{
     padding: 20px;
 }
+
+.footer {
+    position: absolute;
+    
+}
+
+
+
+
+
